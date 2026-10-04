@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module ApplicationHelper
   BOOTSTRAP_ALERT_CLASS = {
     'success' => 'alert-success',
